@@ -2,3 +2,6 @@
 *.xls
 *.xlsx
 *.csv
+# excluding images too
+*.png
+*.jpg

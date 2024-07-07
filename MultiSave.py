@@ -1,3 +1,9 @@
+'''
+The present code get some informations about three big IT companies APPLE, MICROSOFT AND GOOGLE
+Using yFinance and the model 'download' we can extract some informations about this companies
+(date, open, high, low, close, adjclose and volume) and we can save this information using pandas
+in an excel sheet.
+'''
 import yfinance as yf
 import pandas as pd
 
