@@ -1,0 +1,4 @@
+# used to ignore excel and csv files, i'm generating alot of this files
+*.xls
+*.xlsx
+*.csv
